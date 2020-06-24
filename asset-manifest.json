@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/elbud/static/css/main.78f525f3.chunk.css",
+    "main.js": "/elbud/static/js/main.b5c65333.chunk.js",
+    "main.js.map": "/elbud/static/js/main.b5c65333.chunk.js.map",
+    "runtime-main.js": "/elbud/static/js/runtime-main.d9b0123e.js",
+    "runtime-main.js.map": "/elbud/static/js/runtime-main.d9b0123e.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/elbud/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.6ccf7ee8.chunk.js": "/elbud/static/js/2.6ccf7ee8.chunk.js",
+    "static/js/2.6ccf7ee8.chunk.js.map": "/elbud/static/js/2.6ccf7ee8.chunk.js.map",
+    "index.html": "/elbud/index.html",
+    "precache-manifest.fdc090942ea4cb6772e5b3d58b2ac288.js": "/elbud/precache-manifest.fdc090942ea4cb6772e5b3d58b2ac288.js",
+    "service-worker.js": "/elbud/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/elbud/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.78f525f3.chunk.css.map": "/elbud/static/css/main.78f525f3.chunk.css.map",
+    "static/js/2.6ccf7ee8.chunk.js.LICENSE.txt": "/elbud/static/js/2.6ccf7ee8.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/elbud/static/media/logo.eff626f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b0123e.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.6ccf7ee8.chunk.js",
+    "static/css/main.78f525f3.chunk.css",
+    "static/js/main.b5c65333.chunk.js"
+  ]
+}
