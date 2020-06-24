@@ -1,0 +1,12 @@
+.offer {
+  text-align: center;
+}
+
+.offer ul {
+  list-style-type: square;
+}
+
+.offered_items li {
+  width: 40%;
+  margin: auto;
+}

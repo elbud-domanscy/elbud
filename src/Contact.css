@@ -1,0 +1,38 @@
+.contact_form {
+  width: 70%;
+  margin: auto;
+  padding-left: 100;
+}
+
+.contact_form label {
+  min-width: 100%;
+  padding: 10px 0px 10px 10px;
+}
+
+.form_input {
+  width: 70%;
+  float: right;
+  padding-right: 30px;
+}
+
+.message {
+  height: 5em;
+}
+
+.submit_btn {
+  margin-right: 5%;
+}
+
+.alert {
+  float: right;
+  width: 70%;
+}
+
+.message-confirmation {
+  width: 100%;
+}
+
+h3,
+p {
+  text-align: center;
+}
