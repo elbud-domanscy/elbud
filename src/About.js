@@ -5,12 +5,11 @@ const About = () => {
     <>
       <h3>O nas</h3>
       <p>
-        Jesteśmy firmą rodzinną która funkcjonuje na rynku od 2018 roku. W tym
-        czasie pomogliśmy wielu inwestorom przejść przez niewątpliwie trudny
-        proces budowania czegoś tam. Otaczamy inwestycje naszych klientów opieką
-        od strony formalnej poprzez przygotowanie odpowiednich dokumentów,
-        projektów, kosztorysów ale także od strony praktycznej, pełniąc nadzór
-        nad podejmowanymi pracami, służąc radą i pomocą.
+        Jesteśmy firmą rodzinną. Działamy od 2017 roku. Zajmujemy się
+        kosztorysowaniem, projektowaniem i nadzorem obiektów budowlanych.
+        Zaczynając współpracę z inwestorem proponujemy pełen zakres
+        profesjonalnej pomocy od początku do końca trwania inwestycji. Pomagamy
+        w przejściu trudnych etapów załatwiania wszystkich formalności.
       </p>
     </>
   );
