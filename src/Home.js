@@ -9,7 +9,7 @@ const Home = () => {
         Serdecznie zapraszamy do zapoznania się z informacjami na nasz temat
         oraz ofertą naszej firmy. Jeśli potrzebujesz więcej informacji
         zapraszamy do kontatku telefonicznego lub za pomocą formularza
-        kontaktowego w zakładce 'Kontakt'.
+        kontaktowego w zakładce 'Napisz do nas'.
       </p>
     </div>
   );
