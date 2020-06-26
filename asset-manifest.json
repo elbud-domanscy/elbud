@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/elbud/static/css/main.becbd9e8.chunk.css",
-    "main.js": "/elbud/static/js/main.25dfaa7f.chunk.js",
-    "main.js.map": "/elbud/static/js/main.25dfaa7f.chunk.js.map",
+    "main.js": "/elbud/static/js/main.0a535710.chunk.js",
+    "main.js.map": "/elbud/static/js/main.0a535710.chunk.js.map",
     "runtime-main.js": "/elbud/static/js/runtime-main.d9b0123e.js",
     "runtime-main.js.map": "/elbud/static/js/runtime-main.d9b0123e.js.map",
     "static/css/2.829c9cb5.chunk.css": "/elbud/static/css/2.829c9cb5.chunk.css",
     "static/js/2.6ccf7ee8.chunk.js": "/elbud/static/js/2.6ccf7ee8.chunk.js",
     "static/js/2.6ccf7ee8.chunk.js.map": "/elbud/static/js/2.6ccf7ee8.chunk.js.map",
     "index.html": "/elbud/index.html",
-    "precache-manifest.90481cb24cbf07c9963cfb4e2816e9f2.js": "/elbud/precache-manifest.90481cb24cbf07c9963cfb4e2816e9f2.js",
+    "precache-manifest.fd673df8ebfbca7c61509e3f54adc879.js": "/elbud/precache-manifest.fd673df8ebfbca7c61509e3f54adc879.js",
     "service-worker.js": "/elbud/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/elbud/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.becbd9e8.chunk.css.map": "/elbud/static/css/main.becbd9e8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.6ccf7ee8.chunk.js",
     "static/css/main.becbd9e8.chunk.css",
-    "static/js/main.25dfaa7f.chunk.js"
+    "static/js/main.0a535710.chunk.js"
   ]
 }

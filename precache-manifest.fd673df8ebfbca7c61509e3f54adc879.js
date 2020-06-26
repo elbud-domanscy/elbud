@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bcf134d36943fa7b1add5db4f22eb3f",
+    "revision": "c7ccfb0d8570d169d63c400cf0e81059",
     "url": "/elbud/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elbud/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "67c2063afbea80575159",
+    "revision": "f8e4004b1a1033b26635",
     "url": "/elbud/static/css/main.becbd9e8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elbud/static/js/2.6ccf7ee8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67c2063afbea80575159",
-    "url": "/elbud/static/js/main.25dfaa7f.chunk.js"
+    "revision": "f8e4004b1a1033b26635",
+    "url": "/elbud/static/js/main.0a535710.chunk.js"
   },
   {
     "revision": "689c60043fe6a7e62b14",
